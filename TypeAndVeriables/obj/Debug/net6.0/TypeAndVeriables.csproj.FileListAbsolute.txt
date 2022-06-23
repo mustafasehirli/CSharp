@@ -1,0 +1,15 @@
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\bin\Debug\net6.0\TypeAndVeriables.exe
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\bin\Debug\net6.0\TypeAndVeriables.deps.json
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\bin\Debug\net6.0\TypeAndVeriables.runtimeconfig.json
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\bin\Debug\net6.0\TypeAndVeriables.dll
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\bin\Debug\net6.0\TypeAndVeriables.pdb
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.csproj.AssemblyReference.cache
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.AssemblyInfoInputs.cache
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.AssemblyInfo.cs
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.csproj.CoreCompileInputs.cache
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.dll
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\refint\TypeAndVeriables.dll
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.pdb
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\TypeAndVeriables.genruntimeconfig.cache
+C:\Users\pcx\Desktop\CSharp\CSharpCours\TypeAndVeriables\obj\Debug\net6.0\ref\TypeAndVeriables.dll
